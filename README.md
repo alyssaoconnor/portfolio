@@ -16,6 +16,9 @@ Much of the changes in the code are objects that are used to create dynamic cont
 ## Requirements
 Chrome or Firefox browser preferred. JQuery implementation may not be compatible with Inernet Explorer 9 or earlier. 
 
+## Live Sites
+All mockups are available at: https://app.netlify.com/teams/alyssaoconnor/sites
+
 ## Built With
 * HTML/CSS/JS Code
 * Bootstrap
